@@ -6,6 +6,7 @@ use pocketmine\event\Listener;
 use pocketmine\{Server, Player};
 use pocketmine\command\{Command, CommandSender};
 use pocketmine\plugin\PluginBase;
+use pocketmine\teleport;
 
 class Main extends PluginBase implements Listener
 {
